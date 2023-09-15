@@ -12,8 +12,8 @@ The ATM Operation Program is designed to demonstrate a basic ATM system using co
 
 # Usage
 Compile the program using a C# compiler or an integrated development environment (IDE) like Visual Studio.
-Run the compiled executable file in your command prompt or terminal.
-Follow the on-screen instructions to interact with the ATM system.
+Run the compiled executable file in your command prompt or terminal..
+Follow the on-screen instructions to interact with the ATM system..
 Functionality
 The program provides the following functionalities:
 
