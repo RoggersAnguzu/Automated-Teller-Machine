@@ -1,4 +1,4 @@
-# Automated-Teller-Machine
+# ATM
 This is a simple console-based ATM operation program written in C#. The program simulates a basic ATM system with functionalities such as PIN validation, accountcreation, deposit, withdrawal, balance checking, and money transfer.
 ![Screenshot 2023-08-30 162700](https://github.com/RoggersAnguzu/Automated-Teller-Machine/assets/141458053/600b9885-4236-4747-8516-c8a43cccbd9b)
 
