@@ -4,7 +4,7 @@ This is a simple console-based ATM operation program written in C#. The program 
 
  # Table of Contents
 Introduction
-Usage
+Usage.
 Functionality
 Contributing
 License
