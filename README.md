@@ -5,10 +5,10 @@ This is a simple console-based ATM operation program written in C#. The program 
  # Table of Contents
 Introduction
 Usage.
-Functionality
-Contributing
-License
-Introduction
+Functionality.
+Contributing.
+License.
+Introduction.
 The ATM Operation Program is designed to demonstrate a basic ATM system using console input and output. The program starts with a PIN validation process, where the user is prompted to enter a default PIN. After successful login, the user can perform various transactions like creating an account, depositing money, withdrawing money, checking account balance, and transferring money to specific banks.
 
 # Usage
